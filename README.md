@@ -2,6 +2,6 @@
 
 <p align="center"> 
 
-<img src="./.png" alt="all" width="100%">
+<img src="./credly.png" alt="all" width="100%">
 
 </p>
