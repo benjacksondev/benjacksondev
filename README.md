@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=477890&width=435&lines=Experienced+Platform+Engineer;Based+in+Newcastle)](https://git.io/typing-svg)
-<p align="center"> 
-<img src="./credly.png" alt="all" width="100%">
+# Hi, I'm Ben 👋🏻
 
-<iframe src="https://www.credly.com/users/benjacksondev/badges" width="800" height="600" frameborder="0" scrolling="auto"></iframe>
+## **I'm an Platform Engineer, based in Newcastle.**
 
-</p>
+##  My Certifications 🏅
 
-#### Thanks for visiting :heart:
+* [Kubernertes Cloud Native Associate (KCNA)](https://www.credly.com/badges/693184a1-553d-4c4b-91ff-9b8d5415fc1e)
+* [Hashicorp: Terraform Associate](https://www.credly.com/badges/12643f2e-b2ea-407f-bd28-073e3795b606)
+* [AWS Cloud Practictioner](https://www.credly.com/badges/cc0dd0d9-5e2a-4e39-a3d7-dfcee7a929f5)
+* [AWS Solution Architect Associate](credly.com/badges/5b6906bf-902e-49be-8301-171e681944a6)
