@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋🏻
 
-## **I'm a Platform Engineer, based in Newcastle.**
+## **I'm a Platform/Software Engineer, based in Newcastle.**
 
 ##  My Certifications 🏅
 
